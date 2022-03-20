@@ -7,7 +7,8 @@ Durante la elaboración del juego, he definido distintas funciones en las que in
 
 A diferencia del común juego ahorcado, el cual conocemos la mayoría, en donde cada vez que el jugador se equivoca se dibuja una parte del esquema, como se puede observar a continuación:
 
-![](IMAGES/el-ahorcado.jpg)
+<p align="center">
+<img src="IMAGES/el-ahorcado.jpg" widht="300" height="300">
 
 Imagen recuperada de: https://www.planinfantil.es/plan/el-ahorcado/
 
