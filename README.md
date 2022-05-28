@@ -1,7 +1,7 @@
 # Juego del Ahorcado
 Uno de los famosos juego de adivinanza; juego del ahorcado.
 
-En el presente repositorio se encuentra uno de los primeros juegos que he realizado con python. Este se encuentra en la carpeta 'AHORRCADO', esta esta compuesta por 3 archivos o sripts tipo python, en donde se encuentran las funciones, variables y por último el principal o main, en donde conecta los anteriores y ejecuta el juego.
+En el presente repositorio se encuentra uno de los primeros juegos que he realizado con python. Este se encuentra en la carpeta 'AHORCADO', esta esta compuesta por 3 archivos o sripts tipo python, en donde se encuentran las funciones, variables y por último el principal o main, en donde conecta los anteriores y ejecuta el juego.
 
 Durante la elaboración del juego, he definido distintas funciones en las que incluí diferentes bucles for, while y condicionales. También, he utilizado librerías como tkinter and easygui para el uso de ventanas emergentes en donde el jugador pueda ser notificado e ingresar los valores según la etapa del juego, respectivamente. Esto ayuda a una fácil interacción. Al ejecutar el script main_ahorcado.py, aparecerá el menú del juego con varias opciones, como por ejemplo 'Instrucciones', en que recomiendo ver antes de comenzar el juego.
 
